@@ -1,6 +1,6 @@
 {
-  "name": "functions",
-  "description": "Cloud Functions for Firebase",
+  "name": "niravia_server",
+  "description": "Realm of Niravia Server",
   "scripts": {
     "serve": "firebase serve --only functions",
     "shell": "firebase functions:shell",
